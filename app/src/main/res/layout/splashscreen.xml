@@ -3,11 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/login_background">
-
     <ImageView
         android:id="@+id/splashLogo"
         android:layout_width="278dp"
         android:layout_height="305dp"
-        android:layout_centerInParent="true"
-        android:src="@drawable/org_icon_com_texto" />
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/org_icon_com_texto_fullwhite" />
 </RelativeLayout>
